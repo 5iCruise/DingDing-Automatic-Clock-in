@@ -33,7 +33,7 @@ const BUNDLE_ID_WHITE_LIST = [BUNDLE_ID_DD,BUNDLE_ID_XMSF,BUNDLE_ID_MAIL,BUNDLE_
 const WEEK_DAY = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday",]
 
 // 公司的钉钉CorpId，获取方法见更新日志，可留空
-const CORP_ID = "ding90b8d046992c2bcf35c2f4657eb6378f" 
+const CORP_ID = "" 
 
 
 // =================== ↓↓↓ 主线程：监听通知 ↓↓↓ ====================
