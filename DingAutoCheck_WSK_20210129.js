@@ -1,9 +1,9 @@
 /*
  * @Author: George Huan
  * @Date: 2020-08-03 09:30:30
- * @LastEditTime: 2021-01-27 09:36:39
+ * @LastEditTime: 2021-01-29 16:00:00
  * @Description: DingDing-Automatic-Check-in-out (Run on AutoJs)
- * @URL: https://github.com/georgehuan1994/DingDing-Automatic-Clock-in
+ * @URL: https://github.com/5icruise/DingDing-Automatic-Clock-in
  */
 
 const ACCOUNT = "钉钉账号"
