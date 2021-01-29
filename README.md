@@ -1,7 +1,7 @@
 # DingDing-Automatic-Clock-in
  by https://github.com/georgehuan1994/DingDing-Automatic-Clock-in
 
-<img width="300" src="https://github.com/georgehuan1994/DingDing-Automatic-Clock-in/blob/master/图片/Screenshot_2020-10-29-19-29-35-361_org.autojs.autojs.jpg"/> <img width="300"  src="https://github.com/georgehuan1994/DingDing-Automatic-Clock-in/blob/master/图片/Scrennshot_20201231094431.png"/>
+<img width="300" src="https://github.com/5iCruise/DingDing-Automatic-Clock-in/raw/master/图片/Screenshot_2020-10-29-19-29-35-361_org.autojs.autojs.jpg"/> <img width="300"  src="https://github.com/5iCruise/DingDing-Automatic-Clock-in/blob/master/图片/Scrennshot_20201231094431.png"/>
 
 ## 简介
 钉钉自动打卡、远程打卡脚本，基于AutoJs+任务栏通知提醒功能（本案例采用Tasker），免Root
@@ -44,7 +44,7 @@ PC和手机连接到同一网络，使用 VSCode + Auto.js插件（在扩展中�
 ### Tasker
 下载：[Tasker.11.14.apk](https://icruisedata.lanzous.com/ieVkzl107fe "Tasker.11.14 适用于5.0版以上") 密码:63e6
 
-<img width="270" height="585" src="https://github.com/georgehuan1994/DingDing-Automatic-Clock-in/blob/master/图片/截图_004.jpg"/>
+<img width="270" height="585" src="https://github.com/5iCruise/DingDing-Automatic-Clock-in/blob/master/图片/截图_004.jpg"/>
 
 1. 添加一个 "通知" 操作任务，通知标题修改为 "定时打卡"，通知文字随意，通知优先级设为 1
 
